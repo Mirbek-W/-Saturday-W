@@ -1,0 +1,13 @@
+:root{
+    --chv: rgb(247, 0, 0);
+}
+
+
+body{
+    background-color: cadetblue;
+}
+
+.m{
+    color: var(--chv);
+    cursor: pointer;
+}
