@@ -87,10 +87,10 @@
 
 .blok-content-2{
     position: relative;
-    left:80px;
+    left:60px;
     top:50px;
-    width:600px;
-    height:400px;
+    width:40%;
+    height:30%;
     float:left;
 }
 
@@ -104,11 +104,8 @@
 
 .blok2-content-2{
     position: relative;
-    left:300px;
+    left:26%;
     top:80px;
-
-  
-
 }
 
 .content-3{
@@ -208,6 +205,9 @@
     .img2,.btn-warning,.img{
         display:none;
 
+    }
+    .content-2{
+        font-size: x-small;
     }
     
 }
