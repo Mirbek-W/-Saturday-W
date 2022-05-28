@@ -2,7 +2,9 @@
     --chv: rgb(247, 0, 0);
 }
 
-
+.container-sm{
+    background-color: blue;
+}
 body{
     background-color: cadetblue;
 }
@@ -10,4 +12,15 @@ body{
 .m{
     color: var(--chv);
     cursor: pointer;
+}
+
+.col-sm{
+    background-color: yellow;
+    margin:2%;
+    height:400px;
+
+}
+
+.containerl{
+    background-color: blueviolet;
 }
