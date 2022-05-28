@@ -24,3 +24,17 @@ body{
 .containerl{
     background-color: blueviolet;
 }
+
+.cotent-2{
+    width:100%;
+    height:100px;
+    background-color: burlywood;
+ 
+    
+}
+
+.cotent-3{
+    width:100%;
+    height:100px;
+    background-color: rgb(68, 39, 1);
+}
