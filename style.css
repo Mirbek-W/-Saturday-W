@@ -2,39 +2,186 @@
     --chv: rgb(247, 0, 0);
 }
 
-.container-sm{
-    background-color: blue;
-}
-body{
-    background-color: cadetblue;
-}
+.img{
+    width: 50px;
+    height:50px;
 
-.m{
-    color: var(--chv);
-    cursor: pointer;
+    border-radius:50px;
 }
 
-.col-sm{
-    background-color: yellow;
-    margin:2%;
-    height:400px;
+.img2{
+    width: 30px;
+    height:30px;
+    margin:10px;
+    float: left;
 
+    border-radius:50px;
 }
-
-.containerl{
-    background-color: blueviolet;
-}
-
-.cotent-2{
-    width:100%;
-    height:100px;
-    background-color: burlywood;
- 
+.iop79{
+    position: absolute;
+    right:10px;
     
 }
 
-.cotent-3{
+.card-iop{
+    position: relative;
+    top:100px;
+    left: 50px;
+    float:left;
+}
+
+.card{
+    width:40%;
+    float:left;
+    background-color:none;
+}
+
+
+.blok-content-1{
+    width:900px;
+   
+    position: relative;
+    left:200px;
+}
+.content-2{
     width:100%;
-    height:100px;
-    background-color: rgb(68, 39, 1);
+    height:500px;
+    
+    
+}
+
+.carousel-control-prev{
+    
+}
+
+.color1{
+    color:#0D6EFD;
+}
+
+
+
+.content-1{
+    position: relative;
+    top:4px;
+    width:100%;
+    height:500px;
+ 
+}
+
+.blok-content-2{
+    position: relative;
+    left:80px;
+    top:50px;
+    width:600px;
+    height:400px;
+    float:left;
+}
+
+.iop90{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    float:left;
+
+}
+
+.blok2-content-2{
+    position: relative;
+    left:300px;
+    top:80px;
+
+  
+
+}
+
+.content-3{
+    width:100%;
+    height:500px;
+    background-color: #64C0BF;
+}
+
+.blok3-content{
+    position: relative;
+    left:300px;
+    top:100px;
+    width:400px;
+    height:500px;
+    float:left;
+}
+.content-3-blok1{
+    position: relative;
+    top:30px;
+    left:50px;
+    width:500px;
+    height:400px;
+    float:left;
+}
+
+.btn-primary{
+    width:100%;
+    background-color:red;
+}
+.content-4{
+    width:100%;
+    height:700px;
+    background-color: rgb(63, 61, 61);
+    color:white;
+}
+.text{
+    position: relative;
+    left:100px;
+}
+
+.iop34{
+    position: relative;
+    left:260px;
+    width:900px;
+    height:400px;
+    
+    
+}
+.blok4-content{
+    width:250px;
+    height:200px;
+  
+    float:left;
+    margin:20px;
+}
+
+.iop91{
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    position: relative;
+    left:10px;
+    top:10px;
+}
+
+
+.content-5{
+    width:100%;
+    height:500px;
+    background-color:#64C0BF;
+    
+}
+
+.blok6-content{
+    width:250px;
+    height:210px;
+
+    float:left;
+    margin:30px;
+    
+}
+
+.content-6{
+    width:100%;
+    height:400px;
+    
+}
+
+.icon{
+    width:30px;
+    height:30px;
+    float:left;
 }
